@@ -76,11 +76,6 @@ A full-featured **MERN** (MongoDB, Express, React, Node.js) stack application wi
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/mern-backend.git
-git clone https://github.com/yourusername/mern-frontend.git
-cd mern-frontend
-cd mern-backend
-npm install
-cd backend
-cd frontend
+git clone https://github.com/yunusbutt676-commits/mern-courses-management.git
+cd mern-courses-management
 npm install
